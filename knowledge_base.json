@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey, There!"
+    },
+    {
+      "question": "How are you ?",
+      "answer": "I am fine . What about you ?"
+    },
+    {
+      "question": "I am good . Tell me something about the current situation in IT field ",
+      "answer": "ndia has a rapidly growing IT industry, and as of 2021, it is one of the leading destinations for outsourcing IT services in the world. The industry is driven by a large pool of highly skilled professionals, a supportive government, and a favorable business environment."
+    },
+    {
+      "question": "",
+      "answer": "Okay"
+    },
+    {
+      "question": "Can you tell me about your favourite hobby ?",
+      "answer": "I love to cook and listen music"
+    }
+  ]
+}
